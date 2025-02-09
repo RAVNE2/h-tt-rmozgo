@@ -1,0 +1,11 @@
+/*.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+/*}
+
+/*.image {
+    max-width: 100%; /* Ensures the image does not exceed the width of its container */
+    /*height: auto;    /* Maintains aspect ratio */
+/*}
